@@ -1,6 +1,7 @@
 - 👋 Oi eu sou o Pedro Henrique Santos
-- 🌱 Estou cursando curso de técnico em informática
-- 🏫 IFRS - Campus Osório
+- 🌱 Sou Técnico em Informática
+- Cursado no:
+   - 🏫 IFRS - Campus Osório
 
  <div>
   <a href="https://github.com/pedrosantos20">
