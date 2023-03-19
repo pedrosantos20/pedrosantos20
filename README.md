@@ -1,6 +1,6 @@
 - 👋 Oi eu sou o Pedro Henrique Santos
-- 🌱 Sou Técnico em Informática & hoje curso ADS
-      - Ambos Cursado no:
+- 🌱 Sou Técnico em Informática & hoje curso ADS<br>
+      - Ambos Cursado no:<br>
          - 🏫 IFRS - Campus Osório
 
  <div>
