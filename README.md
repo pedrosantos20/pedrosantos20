@@ -1,7 +1,7 @@
 - 👋 Oi eu sou o Pedro Henrique Santos
-- 🌱 Sou Técnico em Informática
-- Cursado no:
-   - 🏫 IFRS - Campus Osório
+- 🌱 Sou Técnico em Informática & hoje curso ADS
+      - Ambos Cursado no:
+         - 🏫 IFRS - Campus Osório
 
  <div>
   <a href="https://github.com/pedrosantos20">
@@ -23,7 +23,7 @@
 <div> 
   <a href="https://www.instagram.com/santos__ph" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/p3dr020" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/p3dro_20" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://twitter.com/santos_ph20" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://open.spotify.com/user/ph9msantos" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
   <a href="https://steamcommunity.com/id/P3DR0_20/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 </div>
